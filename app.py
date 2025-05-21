@@ -68,4 +68,4 @@ if __name__ == "__main__":
     calculate_moving_averages(data)  # Calculate SMAs
 
     # Plot results
-      plot_data(data, ticker)
+    plot_data(data, ticker)
