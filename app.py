@@ -1,6 +1,7 @@
 import yfinance as yf
 import pandas as pd
-import matplotlib.pyplot as plt6
+import matplotlib.pyplot as plt
+
 
 
 # Fetch historical stock data
